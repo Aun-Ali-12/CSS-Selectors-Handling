@@ -1,0 +1,28 @@
+*{
+    color: gray;
+    background-color: lightgray;
+    }
+    h1{
+    color: darkblue;
+    background-color: lightcyan;
+    }
+    #main-title{
+    color: darkred;
+    background-color: mistyrose;
+    }
+    .nav-link{
+    color: forestgreen;
+    background-color:  lightyellow;
+    }
+    p .color-box{
+    color: saddlebrown;
+    background-color: lemonchiffon;
+    }
+    .color-box > p{
+    color: goldenrod;
+    background-color: ivory;
+    }
+    p + .color-box{
+    color: teal;
+    background-color: lightcyan;
+    }
